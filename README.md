@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> Hi Everyone. I'm Koray, " Welcome to My Machine Learning World! "
 I'm Electric - Electronic Engineer.
 # 🌱 I’m currently learning; 
-I'm researching field AI and I'm studying myself development for Machine Learning.
+I'm researching field AI and I'm studying Machine Learning for myself development 
 
 
 # 📫 How to reach me ?
