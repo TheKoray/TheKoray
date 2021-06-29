@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 --> Hi Everyone. I'm Koray. 
 # How to reach me ? 
 
- Twitter : TheKoray18 
+- Twitter : TheKoray18 
 - Email : korayldrm18@gmail.com
