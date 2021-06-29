@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> Hi Everyone. I'm Koray. 
+# How to reach me ? 
+
+Twitter : @TheKoray18 
+Email : korayldrm18@gmail.com
