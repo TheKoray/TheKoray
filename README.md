@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  Machine Learning,Deep Learning.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> Hi Everyone. I'm **Koray**, **"Welcome to My Machine Learning Projects World "**
 I'm Electric - Electronic Engineer.
+# 🌱 I’m currently learning 
 I'm researching field AI and I'm studying myself development for Machine Learning.
 
 
-# How to reach me ? 
+# 📫 How to reach me ?
 
 - Twitter : https://twitter.com/TheKoray18
 - Email : korayldrm18@gmail.com
