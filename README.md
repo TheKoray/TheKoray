@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Hi Everyone. I'm Koray. I'm Electric - Electronic Engineer. I'm gonna research field AI and studying Machine Learning. 
+--> Hi Everyone. 
+I'm Koray, 
+I'm Electric - Electronic Engineer
 
 # How to reach me ? 
 
