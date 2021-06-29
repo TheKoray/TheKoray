@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Hi Everyone. I'm Koray. I'm Electric - Electronic Engineer 
+--> Hi Everyone. I'm Koray. I'm Electric - Electronic Engineer. I'm gonna research field AI and studying Machine Learning. 
+
 # How to reach me ? 
 
 - Twitter : https://twitter.com/TheKoray18
